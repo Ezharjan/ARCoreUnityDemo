@@ -1,0 +1,169 @@
+fileFormatVersion: 2
+guid: 2ab8170c50470754cbda5313ef40b053
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Cone
+    100002: Cube
+    100004: Cube_1
+    100006: Cube_2
+    100008: Cube_3
+    100010: Cube__1_
+    100012: Cube__1__1
+    100014: Cube__2_
+    100016: Cube__3_
+    100018: Door
+    100020: Floor
+    100022: Floor__1_
+    100024: Floor__2_
+    100026: Floor__3_
+    100028: Floors
+    100030: //RootNode
+    100032: Walls
+    400000: Cone
+    400002: Cube
+    400004: Cube_1
+    400006: Cube_2
+    400008: Cube_3
+    400010: Cube__1_
+    400012: Cube__1__1
+    400014: Cube__2_
+    400016: Cube__3_
+    400018: Door
+    400020: Floor
+    400022: Floor__1_
+    400024: Floor__2_
+    400026: Floor__3_
+    400028: Floors
+    400030: //RootNode
+    400032: Walls
+    2100000: Blue1
+    2100002: floor
+    2300000: Cone
+    2300002: Cube
+    2300004: Cube_1
+    2300006: Cube_2
+    2300008: Cube_3
+    2300010: Cube__1_
+    2300012: Cube__1__1
+    2300014: Cube__2_
+    2300016: Cube__3_
+    2300018: Door
+    2300020: Floor
+    2300022: Floor__1_
+    2300024: Floor__2_
+    2300026: Floor__3_
+    3300000: Cone
+    3300002: Cube
+    3300004: Cube_1
+    3300006: Cube_2
+    3300008: Cube_3
+    3300010: Cube__1_
+    3300012: Cube__1__1
+    3300014: Cube__2_
+    3300016: Cube__3_
+    3300018: Door
+    3300020: Floor
+    3300022: Floor__1_
+    3300024: Floor__2_
+    3300026: Floor__3_
+    4300000: Floor
+    4300002: Floor__1_
+    4300004: Floor__2_
+    4300006: Floor__3_
+    4300008: Cube
+    4300010: Cube_1
+    4300012: Cube__1_
+    4300014: Cone
+    4300016: Door
+    4300018: Cube_2
+    4300020: Cube_3
+    4300022: Cube__1__1
+    4300024: Cube__2_
+    4300026: Cube__3_
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
