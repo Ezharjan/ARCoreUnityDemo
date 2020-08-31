@@ -186,14 +186,6 @@ namespace GoogleARCore.Examples.HelloAR
                 return;
             }
 
-
-
-            // if (prefab != null)
-            // {
-            //// Alexander
-            // EnterIntoTheHouse(touch, prefab);
-            // }
-
             EnterIntoTheHouse(touch, instantiatedObject);
 
             if (shouldReturn) return;

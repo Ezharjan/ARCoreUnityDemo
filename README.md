@@ -4,6 +4,9 @@ Based on Google ARCore SDK for Unity, a revised demo.
 Copyright 2017 Google LLC. All rights reserved. Alexander Ezharjan revised based
 on the original SDK on 28th, August, 2020.
 
+Disable depth camera if you want to place the objects directly and avoiding
+unstable shadows when the objects are placed.
+
 This SDK provides native APIs for all of the essential AR features like motion
 tracking, environmental understanding, and light estimation. With these
 capabilities you can build entirely new AR experiences or enhance existing apps
